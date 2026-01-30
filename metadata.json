@@ -1,0 +1,5 @@
+{
+  "name": "TriageFlow AI",
+  "description": "An enterprise-grade industrial email triage system using BERT-based NLP for automated classification, prioritization, and explainable routing of centralized communication.",
+  "requestFramePermissions": []
+}
